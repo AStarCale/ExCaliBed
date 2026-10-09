@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: 'AStarCale'
+assignees: ''
 ---
 ## Problem
 
@@ -42,23 +42,3 @@ The solution to the bug is...
 ### File Affected
 
 1. `*.*`
-
-## Hierarchy
-
-* #19
-
-## Tags
-
-RequestFeature
-
-## Sessions
-
-* AStarCale/.github#9
-
-## A
-
-.
-
-## License
-
-Copyright [AStar Cale](https://astarcale.net); all rights reserved.
